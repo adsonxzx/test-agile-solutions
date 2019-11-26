@@ -1,8 +1,14 @@
 import React from 'react';
+import Header from './components/Header';
+import SalesReport from './pages/SalesReport';
+import './style.css';
 
 function App() {
   return (
-    <h1>Teste pratico</h1>
+    <>
+      <Header />
+      <SalesReport />
+    </>
   );
 }
 

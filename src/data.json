@@ -1,0 +1,231 @@
+[
+  {
+    "id": 1,
+    "categoria": "roupa",
+    "produtos": [
+      {
+        "id": 1,
+        "produto": "camisetas",
+        "marcas": [
+          {
+            "id": 1,
+            "marca": "adidas",
+            "vendas": [
+              {
+                "id": 1,
+                "mes": "Janeiro",
+                "numero": 300
+              },
+              {
+                "id": 2,
+                "mes": "Fevereiro",
+                "numero": 600
+              },
+              {
+                "id": 3,
+                "mes": "Março",
+                "numero": 700
+              },
+              {
+                "id": 4,
+                "mes": "Abril",
+                "numero": 700
+              },
+              {
+                "id": 5,
+                "mes": "Maio",
+                "numero": 700
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "marca": "nike",
+            "vendas": [
+              {
+                "id": 1,
+                "mes": "Janeiro",
+                "numero": 300
+              },
+              {
+                "id": 2,
+                "mes": "Fevereiro",
+                "numero": 200
+              },
+              {
+                "id": 3,
+                "mes": "Março",
+                "numero": 300
+              },
+              {
+                "id": 4,
+                "mes": "Abril",
+                "numero": 900
+              },
+              {
+                "id": 5,
+                "mes": "Maio",
+                "numero": 1200
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "produto": "calças",
+        "marcas": [
+          {
+            "id": 1,
+            "marca": "calvin klein",
+            "vendas": [
+              {
+                "id": 1,
+                "mes": "Janeiro",
+                "numero": 100
+              },
+              {
+                "id": 2,
+                "mes": "Fevereiro",
+                "numero": 500
+              },
+              {
+                "id": 3,
+                "mes": "Março",
+                "numero": 900
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "marca": "centauro",
+            "vendas": [
+              {
+                "id": 1,
+                "mes": "Janeiro",
+                "numero": 100
+              },
+              {
+                "id": 2,
+                "mes": "Fevereiro",
+                "numero": 400
+              },
+              {
+                "id": 3,
+                "mes": "Março",
+                "numero": 200
+              },
+              {
+                "id": 3,
+                "mes": "Abril",
+                "numero": 600
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "categoria": "calçado",
+    "produtos": [
+      {
+        "id": 1,
+        "produto": "tenis",
+        "marcas": [
+          {
+            "id": 1,
+            "marca": "adidas",
+            "vendas": [
+              {
+                "id": 1,
+                "mes": "Janeiro",
+                "numero": 100
+              },
+              {
+                "id": 2,
+                "mes": "Fevereiro",
+                "numero": 100
+              },
+              {
+                "id": 3,
+                "mes": "Março",
+                "numero": 100
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "marca": "noke",
+            "vendas": [
+              {
+                "id": 1,
+                "mes": "Janeiro",
+                "numero": 500
+              },
+              {
+                "id": 2,
+                "mes": "Fevereiro",
+                "numero": 700
+              },
+              {
+                "id": 3,
+                "mes": "Março",
+                "numero": 1200
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "produto": "sapato",
+        "marcas": [
+          {
+            "id": 1,
+            "marca": "marca top",
+            "vendas": [
+              {
+                "id": 1,
+                "mes": "Janeiro",
+                "numero": 300
+              },
+              {
+                "id": 2,
+                "mes": "Fevereiro",
+                "numero": 500
+              },
+              {
+                "id": 3,
+                "mes": "Março",
+                "numero": 900
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "marca": "fila",
+            "vendas": [
+              {
+                "id": 1,
+                "mes": "Janeiro",
+                "numero": 400
+              },
+              {
+                "id": 2,
+                "mes": "Fevereiro",
+                "numero": 200
+              },
+              {
+                "id": 3,
+                "mes": "Março",
+                "numero": 100
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
